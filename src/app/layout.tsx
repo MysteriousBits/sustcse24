@@ -16,7 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "SUST CSE 2024",
   description: "Engineering our code for the future",
-  icons: "https://sustcse24.vercel.app/sust.png"
+  icons: "https://sustcse24.vercel.app/sust.png",
+  verification: {
+    google: "4UQb_OOH5E5avjefcrMfzjCtXO7iThQTLVcXznoClcw",
+  }
 };
 
 export default function RootLayout({
