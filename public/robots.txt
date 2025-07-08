@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://sustcse24.vercel.app
+Host: https://sustcse33.vercel.app
 
 # Sitemaps
-Sitemap: https://sustcse24.vercel.app/sitemap.xml
+Sitemap: https://sustcse33.vercel.app/sitemap.xml
