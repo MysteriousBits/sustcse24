@@ -2,7 +2,7 @@
 
 import React, {useState} from "react";
 import NavBar from "../../components/nav";
-import {CURRICULUM} from "./curriculum_19_20";
+import {CURRICULUM} from "./curriculum_data";
 
 export const metadata = {
   title: "SUST CSE 24 - Curriculum"
@@ -22,7 +22,7 @@ export default function CurriculumPage() {
         <span className={"text-sm"}><i>Click on the rows to expand them and see more details</i></span>
         <a
           className="p-1 text-md font-semibold border-1 rounded-sm hover:bg-[#e0e0e0] hover:text-[#0e0e0e] transition-all"
-          href={"./curriculum_19-20.pdf"} target="_blank" download={true}>Download Curriculum</a>
+          href={"./curriculum.pdf"} target="_blank" download={true}>Download Curriculum</a>
         <div className={"max-w-full overflow-x-auto"}>
           {
             CURRICULUM.map((year, year_idx) => (
