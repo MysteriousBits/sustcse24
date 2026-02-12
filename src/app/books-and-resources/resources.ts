@@ -3,7 +3,7 @@ export const Books = [
     name: "Schaum's Outline of Programming with C",
     author: "Byron S. Gottfried",
     course: "1.1 CSE 133: Structured Programming Languages",
-    link: "http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/5363/1/Programming%20With%20C%20%28Schaum%27s%20Outline%20Series%29_Gottfried_2nd_TMH.pdf"
+    link: "https://bcebakhtiyarpur.ac.in/wp-content/uploads/2020/03/file_5e74d760b4df9.pdf"
   },
   {
     name: "C: The Complete Reference",
